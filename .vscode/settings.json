@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\fr3d\\.platformio\\penv\\Scripts;C:\\Users\\fr3d\\.platformio\\penv;C:\\Python27\\;C:\\Python27\\Scripts;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\WinSCP\\;C:\\Program Files\\Git\\cmd;C:\\Users\\fr3d\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\fr3d\\AppData\\Local\\Programs\\VSCode\\bin;C:\\Python27\\;C:\\Python27\\Scripts;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\WinSCP\\;C:\\Program Files\\Git\\cmd;C:\\Users\\fr3d\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\fr3d\\AppData\\Local\\Programs\\VSCode\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
