@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include <Arduino.h> 
 #ifndef LED_BUILTIN
-  #define LED_BUILTIN 16
+  #define LED_BUILTIN 16 // ca devrait le faire pour nodemcu
 #endif
 
 void setup() {
